@@ -2,7 +2,6 @@
 # Olympic Medals Dashboard
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-GPLv3-blue)
 
 ## Introduction
 This project is a web application that provides an interactive dashboard for exploring Olympic medal statistics. Users can filter data by country, year, and medal type to gain insights into different nations' performance.

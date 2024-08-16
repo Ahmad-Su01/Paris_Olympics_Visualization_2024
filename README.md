@@ -1,4 +1,4 @@
-```markdown
+
 # Olympic Medals Dashboard
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
@@ -36,5 +36,5 @@ The data was sourced from [Kaggle](https://www.kaggle.com/code/ahmadsulaibi/pari
 
 ## Usage
 To run the analysis:
-```bash
+
 python analyze_medals.py

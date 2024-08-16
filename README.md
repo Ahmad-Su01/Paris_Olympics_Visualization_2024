@@ -11,6 +11,7 @@ This project analyzes the distribution of Olympic medals across different countr
 - [Methodology](#Methodology)
 - [Visualizations](#Visualizations)
 - [Insights](#Insights)
+- [Usage](#Usage)
 - [Contributing](#contributing)
 
 ## Data

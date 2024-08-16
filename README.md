@@ -8,13 +8,11 @@
 This project is a web application that provides an interactive dashboard for exploring Olympic medal statistics. Users can filter data by country, year, and medal type to gain insights into different nations' performance.
 
 ## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
+- [Data](#Data)
+- [Methodology](#Methodology)
+- [Visualizations](#Visualizations)
+- [Insights](#Insights)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Data
 The data was sourced from [Kaggle](https://www.kaggle.com/code/ahmadsulaibi/paris-olympics-visualization) and includes:
@@ -35,6 +33,7 @@ The data was sourced from [Kaggle](https://www.kaggle.com/code/ahmadsulaibi/pari
 - Emerging countries like China and Japan have significantly increased their medal count in recent years.
 
 ## Usage
-To run the analysis:
+Use a system that runs conda.
 
-python analyze_medals.py
+## Contributing
+**Ahmad Sulaibi**

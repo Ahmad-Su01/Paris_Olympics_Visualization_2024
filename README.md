@@ -12,7 +12,7 @@ This project analyzes the distribution of Olympic medals across different countr
 - [Visualizations](#Visualizations)
 - [Insights](#Insights)
 - [Usage](#Usage)
-- [Contributing](#contributing)
+- [Authors](#Authors)
 
 ## Data
 The data was sourced from [Kaggle](https://www.kaggle.com/code/ahmadsulaibi/paris-olympics-visualization) and includes:
@@ -35,5 +35,5 @@ The data was sourced from [Kaggle](https://www.kaggle.com/code/ahmadsulaibi/pari
 ## Usage
 Use a system that runs jupyter notebook.
 
-## Contributing
+## Authors
 **Ahmad Sulaibi**

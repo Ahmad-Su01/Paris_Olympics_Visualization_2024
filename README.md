@@ -1,5 +1,5 @@
 ```markdown
-# Olympic Medals Dashboard
+# Olympic Medals Dashboar
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-GPLv3-blue)

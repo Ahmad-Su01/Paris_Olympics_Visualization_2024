@@ -16,8 +16,10 @@ This project analyzes the distribution of Olympic medals across different countr
 
 ## Data
 The data was sourced from [Kaggle](https://www.kaggle.com/code/ahmadsulaibi/paris-olympics-visualization) and includes:
-- **Country**: The country that won the medal.
+- **Rank**: Rank of each country,
+- **Countries**: The countries that won the medal.
 - **Medal Type**: Gold, Silver, or Bronze.
+- **Total**: Total number of medals won by each Country.
 
 ## Methodology
 1. **Exploratory Data Analysis (EDA)**: Used Pandas and Seaborn to explore the data.

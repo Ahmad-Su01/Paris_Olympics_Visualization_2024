@@ -32,7 +32,6 @@ The data was sourced from [Kaggle](https://www.kaggle.com/code/ahmadsulaibi/pari
 
 ## Insights
 - The United States has consistently dominated the Olympics regarding total medal count.
-- Emerging countries like China and Japan have significantly increased their medal count in recent years.
 
 ## Usage
 Use a system that runs jupyter notebook.

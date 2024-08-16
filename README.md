@@ -4,7 +4,7 @@
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ## Introduction
-This project is a web application that provides an interactive dashboard for exploring Olympic medal statistics. Users can filter data by country, year, and medal type to gain insights into different nations' performance.
+This project analyzes the distribution of Olympic medals across different countries and years. It provides insights into which countries dominate the Olympics and how their performance has changed over time.
 
 ## Table of Contents
 - [Data](#Data)

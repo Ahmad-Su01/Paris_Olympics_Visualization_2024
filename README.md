@@ -32,7 +32,7 @@ The data was sourced from [Kaggle](https://www.kaggle.com/code/ahmadsulaibi/pari
 - Emerging countries like China and Japan have significantly increased their medal count in recent years.
 
 ## Usage
-Use a system that runs conda.
+Use a system that runs jupyter notebook.
 
 ## Contributing
 **Ahmad Sulaibi**
